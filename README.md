@@ -1,4 +1,4 @@
-# CS 3307 Group 23 Blackjack Game
+# C++ Voice-Controlled Blackjack
 
 ## Installation Steps
 
